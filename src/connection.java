@@ -31,6 +31,8 @@ public class connection {
 			System.out.println(rs.getString("age"));
 			System.out.println("succesfull");
 			System.out.println("Database testing");
+			System.out.println("Api testing");
+			
 		}
 	}
 

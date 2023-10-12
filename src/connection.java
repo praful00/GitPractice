@@ -30,6 +30,7 @@ public class connection {
 			System.out.println(rs.getString("loaction"));
 			System.out.println(rs.getString("age"));
 			System.out.println("succesfull");
+			System.out.println("Database testing");
 		}
 	}
 

@@ -32,6 +32,7 @@ public class connection {
 			System.out.println("succesfull");
 			System.out.println("Database testing");
 			System.out.println("Api testing");
+			System.out.println("ETL Test");
 			
 		}
 	}
